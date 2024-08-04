@@ -42,6 +42,12 @@ The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revo
     - Build a user interface using Streamlit to display the bus travel data.
     - Implement interactive filters to allow users to explore the data based on various criteria (e.g., route, schedule, price).
     - Provide visualizations and insights to help users make data-driven decisions.
+  
+4. **Streamlit Web Application**:
+
+   
+   ![Image App](https://github.com/user-attachments/assets/07fd640f-b0f0-4c10-aaa1-d18d89635b62)
+
 
 ## Benefits
 - **Automated Data Collection**: Save time and reduce manual effort in collecting bus travel data.
@@ -53,6 +59,6 @@ The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revo
 - Network URL: http://192.168.208.153:8507
 
 
-![Image App](https://github.com/user-attachments/assets/c47d1fed-c370-402f-ab9b-863947f2d3a0)
+
 
 
