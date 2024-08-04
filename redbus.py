@@ -66,7 +66,7 @@ elif about_button:
 
 # Display content based on page
 if st.session_state.page == 'home':
-    st.image(r'F:\NITHYA ONLINE DATA SCIENCE\PROJECT REDBUS\1_S-95TWd9jgxT87cKkZWnFg.jpg', width=1200)
+    st.image(r'F:\NITHYA ONLINE DATA SCIENCE\PROJECT REDBUS\1_S-95TWd9jgxT87cKkZWnFg.jpg', width=780)
 
 elif st.session_state.page == 'about_app':
     # Display project description when "Home" button is clicked
